@@ -4,7 +4,7 @@
 # Note: Net 4.0 must be installed prior to running this script
 #
 #Modify this line to change packages
-$items = @("GoogleChrome", "Firefox", "ccleaner", "skype", "vlc", "k-litecodecpackbasic", "flashplayerplugin", "javaruntime", "DotNet4.5", "dropbox", "jdk8", "7zip.install", "eclipse-standard-luna", "notepadplusplus.install", "cyg-get", "iTunes",  "paint.net", "picasa", "Silverlight", "spotify", "teamviewer", "FoxitReader", "putty", "winscp", "ConEmu")
+$items = @("GoogleChrome", "Firefox", "atom", "ccleaner", "skype", "vlc", "k-litecodecpackbasic", "flashplayerplugin", "javaruntime", "DotNet4.5", "dropbox", "iTunes",  "paint.net", "picasa", "Silverlight", "spotify", "teamviewer", "FoxitReader")
 
 
 
@@ -30,3 +30,4 @@ cinst $file
 
 ########
 # Delete packages.config
+Remove-Item $file
