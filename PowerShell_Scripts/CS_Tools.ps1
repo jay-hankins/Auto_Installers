@@ -4,7 +4,7 @@
 # Note: Net 4.0 must be installed prior to running this script
 #
 #Modify this line to change packages
-$items = @("jdk8", "javaruntime", "eclipse-standard-luna", "notepadplusplus.install", "cyg-get", "putty", "winscp", "wget", "ConEmu", "JayHankins.ConEmuConfig", "git")
+$items = @("jdk8", "javaruntime", "eclipse-standard-luna", "notepadplusplus.install", "cyg-get", "putty", "winscp", "wget", "ConEmu", "JayHankins.ConEmuConfig", "git.install")
 
 
 
