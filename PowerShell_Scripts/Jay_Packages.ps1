@@ -4,7 +4,7 @@
 # Note: Net 4.0 must be installed prior to running this script
 #
 #Modify this line to change packages
-$items = @("brackets", "crashplan", "Office365HomePremium")
+$items = @("brackets", "crashplan", "Office365HomePremium", "f.lux")
 
 
 
