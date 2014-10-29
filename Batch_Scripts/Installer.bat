@@ -10,12 +10,11 @@ pause
 
 @powershell -NoProfile -ExecutionPolicy unrestricted -Command "iex ((new-object net.webclient).DownloadString('https://raw.githubusercontent.com/jay-hankins/Auto_Installers/master/PowerShell_Scripts/CS_Tools.ps1'))"
 
-call cyg-get default
-call cyg-get wget
-call cyg-get curl
-call cyg-get nano
-call cyg-get vim
-call cyg-get git
+rem call cyg-get default
+rem call cyg-get wget
+rem call cyg-get curl
+rem call cyg-get nano
+rem call cyg-get vim
 
 cls
 echo We have finished installing the CS tools. 
