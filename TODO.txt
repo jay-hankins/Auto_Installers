@@ -1,0 +1,3 @@
+Delete unwanted shortcuts
+Disable startup
+Fix ConEmu settings //new active tabs //remove %programdata% thingy
