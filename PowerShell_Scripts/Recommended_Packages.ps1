@@ -4,7 +4,7 @@
 # Note: Net 4.0 must be installed prior to running this script
 #
 #Modify this line to change packages
-$items = @("GoogleChrome", "Firefox", "atom", "ccleaner", "skype", "MPC-HC", "k-litecodecpackbasic", "flashplayerplugin", "DotNet4.5", "iTunes",  "paint.net", "picasa", "Silverlight", "spotify", "FoxitReader")
+$items = @("GoogleChrome", "Firefox", "atom", "ccleaner", "skype", "vlc", "k-litecodecpackbasic", "flashplayerplugin", "DotNet4.5", "iTunes",  "paint.net", "picasa", "Silverlight", "spotify", "FoxitReader")
 
 
 

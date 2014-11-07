@@ -1,3 +1,6 @@
-Delete unwanted shortcuts
-Disable startup
-Fix ConEmu settings //new active tabs //remove %programdata% thingy
+Copy fanciness from Cmder //
+
+SSH auto-login
+SSH alias
+
+https://webvpn.purdue.edu/CACHE/stc/1/binaries/anyconnect-win-3.1.04072-web-deploy-k9.exe
