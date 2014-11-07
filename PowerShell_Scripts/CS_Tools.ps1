@@ -6,7 +6,7 @@
 #Modify this line to change packages
 $items = @("jdk8", "javaruntime", "eclipse-java-luna", "notepadplusplus.install", "cyg-get", "PuttyTray", "winscp", "wget", "ConEmu", "JayHankins.ConEmuConfig", "git.install")
 
-
+mkdir %SYSTEMDRIVE%\tools
 
 #################
 # Create packages.config based on passed arguments

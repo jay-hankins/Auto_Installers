@@ -3,4 +3,6 @@ Copy fanciness from Cmder //
 SSH auto-login
 SSH alias
 
-https://webvpn.purdue.edu/CACHE/stc/1/binaries/anyconnect-win-3.1.04072-web-deploy-k9.exe
+JDK8 backwards compatible?
+
+VPN INSTALL: https://webvpn.purdue.edu/CACHE/stc/1/binaries/anyconnect-win-3.1.04072-web-deploy-k9.exe
