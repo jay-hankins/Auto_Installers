@@ -22,7 +22,7 @@ cinst PuttyTray
 cinst winscp
 cinst ccleaner
 cinst FoxitReader7
-Install-BoxstarterPackage -PackageName https://gist.githubusercontent.com/jay-hankins/c3b6525a66d0ff5ed216/raw/5105c05541ed56ad89de53cdf84ff7a670c31c76/gistfile1.txt
+Install-BoxstarterPackage -PackageName https://raw.githubusercontent.com/jay-hankins/Auto_Installers/master/BoxStarter/Packages/FoxitReader7_script.txt
 cinst lastpass
 
 #Media
