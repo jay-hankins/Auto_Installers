@@ -3,6 +3,10 @@ Copy fanciness from Cmder //
 SSH auto-login
 SSH alias
 
-JDK8 backwards compatible?
-
 VPN INSTALL: https://webvpn.purdue.edu/CACHE/stc/1/binaries/anyconnect-win-3.1.04072-web-deploy-k9.exe
+
+TI-Nspire package
+
+//conemu broken
+
+jdk8 failed error 1603

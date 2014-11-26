@@ -1,0 +1,40 @@
+Set-WindowsExplorerOptions -EnableShowFileExtensions
+
+#Browsers
+cinst GoogleChrome
+cinst Firefox
+
+#Terminal
+cinst ConEmu
+cinst JayHankins.ConEmuConfig
+
+#Git apps
+cinst git.install
+
+# Text Editors
+cinst atom
+cinst notepadplusplus.install 
+
+#Utilities
+cinst 7zip.install
+cinst skype
+cinst PuttyTray
+cinst winscp
+cinst ccleaner
+cinst FoxitReader7
+Install-BoxstarterPackage -PackageName https://gist.githubusercontent.com/jay-hankins/c3b6525a66d0ff5ed216/raw/5105c05541ed56ad89de53cdf84ff7a670c31c76/gistfile1.txt
+cinst lastpass
+
+#Media
+cinst vlc
+cinst k-litecodecpackbasic
+cinst iTunes
+cinst Picasa
+cinst Spotify
+cinst paint.net
+cinst musicbee
+
+#Development
+cinst javaruntime
+cinst jdk8
+cinst eclipse-java-luna
