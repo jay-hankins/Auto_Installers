@@ -18,7 +18,7 @@ cinst notepadplusplus.install
 #Utilities
 cinst 7zip.install
 cinst skype
-cinst PuttyTray
+cinst putty.install
 cinst winscp
 cinst ccleaner
 cinst FoxitReader7
