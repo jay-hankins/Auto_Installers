@@ -27,6 +27,7 @@ Install-BoxstarterPackage -PackageName https://raw.githubusercontent.com/jay-han
 cinst lastpass
 cinst cyg-get
 cinst crashplan
+cinst teamviewer
 
 #Media
 cinst vlc
