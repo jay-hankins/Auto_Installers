@@ -11,7 +11,7 @@ cinst JayHankins.ConEmuConfig
 cinst git.install
 
 # Text Editors
-cinst atom
+cinst sublimetext3
 cinst notepadplusplus.install 
 
 #Utilities
