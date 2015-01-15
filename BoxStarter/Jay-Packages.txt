@@ -41,3 +41,5 @@ cinst javaruntime
 cinst jdk8
 cinst eclipse-java-luna
 cinst brackets
+cinst nodejs.install
+cinst VisualStudioCommunity2013
