@@ -2,6 +2,7 @@ Set-WindowsExplorerOptions -EnableShowFileExtensions
 
 #Browsers
 cinst GoogleChrome
+cinst firefox
 
 #Terminal
 cinst ConEmu
