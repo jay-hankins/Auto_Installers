@@ -21,9 +21,7 @@ cinst skype
 #cinst putty.install
 cinst winscp
 cinst ccleaner
-cinst FoxitReader7
-#install custom version of FoxitReader 7
-Install-BoxstarterPackage -PackageName https://raw.githubusercontent.com/jay-hankins/Auto_Installers/master/BoxStarter/Packages/FoxitReader7_script.txt
+cinst foxitreader
 cinst lastpass
 #cinst cyg-get
 cinst teamviewer
