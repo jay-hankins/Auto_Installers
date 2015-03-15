@@ -28,12 +28,12 @@ cinst teamviewer
 
 #Media
 cinst vlc
-cinst iTunes
+#cinst iTunes
 cinst Picasa
 cinst Spotify
 cinst paint.net
 cinst musicbee
-cinst plexmediaserver
+#cinst plexmediaserver
 
 #Development
 cinst javaruntime
