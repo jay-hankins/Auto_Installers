@@ -28,17 +28,17 @@ cinst teamviewer
 
 #Media
 cinst vlc
-#cinst iTunes
+cinst iTunes
 cinst Picasa
 cinst Spotify
 cinst paint.net
 cinst musicbee
-#cinst plexmediaserver
+cinst plexmediaserver
 
 #Development
-cinst javaruntime
+#cinst javaruntime
 #cinst jdk8
 #cinst eclipse-java-luna
 cinst brackets
-#cinst nodejs.install
+cinst nodejs.install
 #cinst VisualStudioCommunity2013
